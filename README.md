@@ -61,18 +61,44 @@ Cuenta además con una barra de búsqueda, la posibilidad de ordenar los videoju
 Se uso PostgreSQL y Sequelize para la Base de datos, Node.js y Express para el Backend y React.js acompañado de Redux para el FrontEnd con CSS puro.</h4>
 &nbsp;
 <p align="center">
-    <a><img width="350px" src="./images/Home.jpg"></a>
-    <a><img width="350px" src="./images/AddVideogame.jpg"></a>
+    <a><img width="350px" src="./images/Videogames/Home.jpg"></a>
+    <a><img width="350px" src="./images/Videogames/AddVideogame.jpg"></a>
 </p>
 
 <p align="center">
-    <a><img width="350px" src="./images/VideogameDetail.jpg"></a>
+    <a><img width="350px" src="./images/Videogames/VideogameDetail.jpg"></a>
 </p>
 
 <p align="center" width="400">
     <a href="https://github.com/lheitt/PI-Videogames">Ver Repositorio</a>
     <a>ㅤㅤ</a>
     <a href="https://pi-videogames-lh.vercel.app">Ver Deploy</a>
+</p>
+
+&nbsp;
+<h2 align="center">PocketFit App</h2>
+<h4>Proyecto destinado a las administración de un gimnasio desarrollado durante el bootcamp de Henry por 7 personas el cual se divide en dos plataformas: web y mobile. La web orientada hacia la administracion con la posibilidad de gestionar el plan semanal del gimnasio, los turnos, las clases, los eventos, los usuarios, el feedback y hasta un newsletter. Y la mobile orientada hacia el cliente con la posibilidad de visualizar su plan semanal, estadísticas, eventos y feriados próximos del gimnasio, editar su perfil, dar feedback y hasta poder pagar su mensualidad a través de la app.
+Se uso PostgreSQL y Sequelize para la Base de datos, Node.js y Express para el Backend y React.js, React Native acompañado de Redux para el FrontEnd con Styled Components.</h4>
+&nbsp;
+<p align="center">
+    <a><img width="350px" src="./images/PocketFit/Login.jpg"></a>
+    <a><img width="350px" src="./images/PocketFit/Home.jpg"></a>
+</p>
+
+<p align="center">
+    <a><img width="350px" src="./images/PocketFit/Routines.jpg"></a>
+    <a><img width="350px" src="./images/PocketFit/UserDetail.jpg"></a>
+</p>
+
+<p align="center">
+    <a><img width="350px" src="./images/PocketFit/NewClass.jpg"></a>
+    <a><img width="350px" src="./images/PocketFit/Configuration.jpg"></a>
+</p>
+
+<p align="center" width="400">
+    <a href="https://github.com/ManfredMat/PocketFit">Ver Repositorio</a>
+    <a>ㅤㅤ</a>
+    <a href="https://pocketgym.vercel.app/session/home">Ver Deploy</a>
 </p>
 
 &nbsp;
