@@ -57,27 +57,6 @@
 
 &nbsp;
 <h1>📌 Proyectos en los que he trabajado</h1>
-<h2 align="center">Videogames App</h2>
-<h4>SPA creada durante el bootcamp de Full Stack Developer la cual gracias a la API RAWG permite obtener los detalles de un videojuego en particular de entre +500.000 y agregar nuevos a una base de datos.
-Cuenta además con una barra de búsqueda, la posibilidad de ordenar los videojuegos mostrados ascendente o descendentemente dependiendo de su nombre o rating y también la de poder filtrarlos por géneros o por origen (API o DB).
-Se uso PostgreSQL y Sequelize para la Base de datos, Node.js y Express para el Backend y React.js acompañado de Redux para el FrontEnd con CSS puro.</h4>
-&nbsp;
-<p align="center">
-    <a><img width="350px" src="./images/Videogames/Home.jpg"></a>
-    <a><img width="350px" src="./images/Videogames/AddVideogame.jpg"></a>
-</p>
-
-<p align="center">
-    <a><img width="350px" src="./images/Videogames/VideogameDetail.jpg"></a>
-</p>
-
-<p align="center" width="400">
-    <a href="https://github.com/lheitt/PI-Videogames">Ver Repositorio</a>
-    <a>ㅤㅤ</a>
-    <a href="https://pi-videogames-lh.vercel.app">Ver Deploy</a>
-</p>
-
-&nbsp;
 <h2 align="center">PocketFit App</h2>
 <h4>Proyecto destinado a las administración de un gimnasio desarrollado durante el bootcamp de Henry por 7 personas el cual se divide en dos plataformas: web y mobile. La web orientada hacia la administracion con la posibilidad de gestionar el plan semanal del gimnasio, los turnos, las clases, los eventos, los usuarios, el feedback y hasta un newsletter. Y la mobile orientada hacia el cliente con la posibilidad de visualizar su plan semanal, estadísticas, eventos y feriados próximos del gimnasio, editar su perfil, dar feedback y hasta poder pagar su mensualidad a través de la app.
 Se uso PostgreSQL y Sequelize para la Base de datos, Node.js y Express para el Backend y React.js, React Native acompañado de Redux para el FrontEnd con Styled Components.</h4>
@@ -126,6 +105,63 @@ Se uso PostgreSQL y Sequelize para la Base de datos, Node.js y Express para el B
     <a href="https://pocketgym.vercel.app/session/home">Ver Deploy Web</a>
     <a>ㅤㅤ</a>
     <a href="https://expo.dev/@lheitt/pocketfit">Ver Deploy Mobile (con Expo Go)</a>
+</p>
+
+&nbsp;
+<h2 align="center">Videogames App</h2>
+<h4>SPA creada durante el bootcamp de Full Stack Developer la cual gracias a la API RAWG permite obtener los detalles de un videojuego en particular de entre +500.000 y agregar nuevos a una base de datos.
+Cuenta además con una barra de búsqueda, la posibilidad de ordenar los videojuegos mostrados ascendente o descendentemente dependiendo de su nombre o rating y también la de poder filtrarlos por géneros o por origen (API o DB).
+Se uso PostgreSQL y Sequelize para la Base de datos, Node.js y Express para el Backend y React.js acompañado de Redux para el FrontEnd con CSS puro.</h4>
+&nbsp;
+<p align="center">
+    <a><img width="350px" src="./images/Videogames/Home.jpg"></a>
+    <a><img width="350px" src="./images/Videogames/AddVideogame.jpg"></a>
+</p>
+
+<p align="center">
+    <a><img width="350px" src="./images/Videogames/VideogameDetail.jpg"></a>
+</p>
+
+<p align="center" width="400">
+    <a href="https://github.com/lheitt/PI-Videogames">Ver Repositorio</a>
+    <a>ㅤㅤ</a>
+    <a href="https://pi-videogames-lh.vercel.app">Ver Deploy</a>
+</p>
+
+&nbsp;
+<h2 align="center">¿Quién es más probable?</h2>
+<h4>Proyecto personal basado en el popular juego Most Likely To, más conocido en español como ¿Quién es más probable/propenso?. El cual gracias a un websocket, permite la interacción en tiempo real de un grupo ilimitado de personas, para así completar el objetivo principal del juego: elegir de entre los jugadores presentes al que, bajo criterio del jugador, sea el más probable de cumplir la premisa de la pregunta mostrada en pantalla. Además de contar con salas independientes para cada grupo de jugadores, las dos versiones (web y mobile app) cuentan con la posibilidad de agregar preguntas al juego y la de cambiar los colores de la interfaz entre tema oscuro o claro.
+Se usó Firebase para la base de datos, Node.js y Express para el Backend, React.js y React Native para el FrontEnd acompañado con Material UI para la versión web y React Native Paper para la versión mobile y finalmente Socket.IO como WebSocket</h4>
+&nbsp;
+<p align="center">
+    <a><img width="350px" src="./images/Quien es mas probable/Home.jpg"></a>
+    <a><img width="350px" src="./images/Quien es mas probable/Questions.jpg"></a>
+</p>
+
+<p align="center">
+    <a><img width="350px" src="./images/Quien es mas probable/CreateRoom.jpg"></a>
+    <a><img width="350px" src="./images/Quien es mas probable/JoinRoom.jpg"></a>
+</p>
+
+<p align="center">
+    <a><img width="350px" src="./images/Quien es mas probable/Game.jpg"></a>
+    <a><img width="350px" src="./images/Quien es mas probable/GameResults.jpg"></a>
+</p>
+
+<p align="center">
+    <a><img height="250px" src="./images/Quien es mas probable/MobileHome.jpg"></a>
+    <a><img height="250px" src="./images/Quien es mas probable/MobileQuestions.jpg"></a>
+    <a><img height="250px" src="./images/Quien es mas probable/MobileGame.jpg"></a>
+    <a><img height="250px" src="./images/Quien es mas probable/MobileGameResults.jpg"></a>
+    
+</p>
+
+<p align="center" width="400">
+    <a href="https://github.com/lheitt/quien-es-mas-probable">Ver Repositorio</a>
+    <a>ㅤㅤ</a>
+    <a href="https://quien-es-mas-probable.vercel.app/">Ver Deploy Web</a>
+    <a>ㅤㅤ</a>
+    <a href="https://expo.dev/@lheitt/quien-es-mas-probable">Ver Deploy Mobile (con Expo Go)</a>
 </p>
 
 &nbsp;
