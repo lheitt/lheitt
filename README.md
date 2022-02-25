@@ -3,6 +3,11 @@
 
 &nbsp;
 <h4>Desde muy chico siempre me he sentido atraido hacia el mundo de la tecnología en general. Empezando por la electrónica, la informática, la creación de contenido digital y ahora finalmente la programación y el desarrollo web!</h4>
+<p align="center" width="400">
+    <a href="https://luciano-heitt-portfolio.vercel.app/" target="_blank" rel="noreferrer">Portfolio</a>
+    <a>ㅤㅤ</a>
+    <a href="https://www.linkedin.com/in/luciano-heitt/" target="_blank" rel="noreferrer">LinkedIn</a>
+</p>
 
 &nbsp;
 <h1 align="left">⭐ Lenguajes y herramientas que manejo</h1>
@@ -20,17 +25,19 @@
     <!--- redux -->
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
     <!--- webpack --> 
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
+    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> 
+    <!--- MUI -->
+    <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="material iu" width="40" height="40"/> </a> 
     <!--- Bootstrap -->
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
     <!--- sass -->
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
     <!--- tailwind -->
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <!--- nodejs -->
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
     <!--- express -->
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
     <!--- firebase -->
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     <!--- postgresql -->
@@ -41,6 +48,10 @@
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
     <!--- mocha -->
     <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
+    <!--- npm -->
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
+    <!--- socket io -->
+    <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socket io" width="40" height="40"/> </a>
     <!--- git -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <!--- postman -->
@@ -49,6 +60,10 @@
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
     <!--- photoshop -->
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+    <!--- premier -->
+    <a href="https://www.adobe.com/products/premiere" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="premier" width="40" height="40"/> </a>
+    <!--- after effects -->
+    <a href="https://www.adobe.com/products/aftereffects" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="after effects" width="40" height="40"/> </a>
     <!--- figma -->
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
     <!--- Blender -->
@@ -131,7 +146,7 @@ Se uso PostgreSQL y Sequelize para la Base de datos, Node.js y Express para el B
 &nbsp;
 <h2 align="center">¿Quién es más probable?</h2>
 <h4>Proyecto personal basado en el popular juego Most Likely To, más conocido en español como ¿Quién es más probable/propenso?. El cual gracias a un websocket, permite la interacción en tiempo real de un grupo ilimitado de personas, para así completar el objetivo principal del juego: elegir de entre los jugadores presentes al que, bajo criterio del jugador, sea el más probable de cumplir la premisa de la pregunta mostrada en pantalla. Además de contar con salas independientes para cada grupo de jugadores, las dos versiones (web y mobile app) cuentan con la posibilidad de agregar preguntas al juego y la de cambiar los colores de la interfaz entre tema oscuro o claro.
-Se usó Firebase para la base de datos, Node.js y Express para el Backend, React.js y React Native para el FrontEnd acompañado con Material UI para la versión web y React Native Paper para la versión mobile y finalmente Socket.IO como WebSocket</h4>
+Se usó Firebase para la base de datos, Node.js y Express para el Backend, React.js y React Native para el FrontEnd acompañado con Material UI para la versión web y React Native Paper para la versión mobile y finalmente Socket.IO como WebSocket.</h4>
 &nbsp;
 <p align="center">
     <a><img width="350px" src="./images/Quien es mas probable/Home.jpg"></a>
@@ -167,5 +182,5 @@ Se usó Firebase para la base de datos, Node.js y Express para el Backend, React
 &nbsp;
 <h1>📫 Contacto</h1>
 <p align="left">
-    <a href="mailto:lheitt@gmail.com">lheitt@gmail.com</a>
+    <a href="mailto:lheitt@gmail.com" target="_blank" rel="noreferrer">lheitt@gmail.com</a>
 </p>
