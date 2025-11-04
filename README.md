@@ -4,7 +4,7 @@
 &nbsp;
 <h4>Desde muy chico siempre me he sentido atraido hacia el mundo de la tecnología en general. Empezando por la electrónica, la informática, la creación de contenido digital y ahora finalmente la programación y el desarrollo web!</h4>
 <p align="center" width="400">
-    <a href="https://luciano-heitt-portfolio.vercel.app/" target="_blank" rel="noreferrer">Portfolio</a>
+    <a href="https://www.lucianoheitt.com.ar/" target="_blank" rel="noreferrer">Portfolio</a>
     <a>ㅤㅤ</a>
     <a href="https://www.linkedin.com/in/luciano-heitt/" target="_blank" rel="noreferrer">LinkedIn</a>
 </p>
