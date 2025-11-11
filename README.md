@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋🏻, Soy Luciano Heitt</h1>
-<h3 align="center">Un apasionado Desarrollador Full Stack Argentino de Corazón 💙🤍💙</h3>
+<h3 align="center">Full Stack Developer con 4 años de experiencia</h3>
 
 &nbsp;
-<h4>Desde muy chico siempre me he sentido atraido hacia el mundo de la tecnología en general. Empezando por la electrónica, la informática, la creación de contenido digital y ahora finalmente la programación y el desarrollo web!</h4>
+<h4>Soy Full Stack Developer especializado en React, Redux, Node.js, TypeScript y Firebase. Tengo experiencia adicional en React Native y NestJS, participando en el desarrollo de aplicaciones web y mobile de alto rendimiento. Capacidad demostrada para liderar proyectos, colaborar en equipos ágiles y resolver problemas de manera eficiente y creativa. Sólida formación técnica complementada con conocimientos en informática, electrónica y producción digital.</h4>
 <p align="center" width="400">
     <a href="https://www.lucianoheitt.com.ar/" target="_blank" rel="noreferrer">Portfolio</a>
     <a>ㅤㅤ</a>
@@ -14,6 +14,8 @@
 <p align="left"> 
     <!--- javascript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <!--- typescript -->
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     <!--- html5 -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <!--- css3 -->
@@ -22,16 +24,20 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <!--- redux -->
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+    <!--- react native -->
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/> </a>
+    <!--- tailwind -->
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <!--- MUI -->
-    <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="material iu" width="40" height="40"/> </a> 
+    <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="material ui" width="40" height="40"/> </a> 
     <!--- Bootstrap -->
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
     <!--- sass -->
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <!--- tailwind -->
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <!--- nodejs -->
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+    <!--- nestjs -->
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/> </a>
     <!--- express -->
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
     <!--- firebase -->
@@ -41,13 +47,15 @@
     <!--- sqlite --> 
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
     <!--- sequelize --> 
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/> </a>
+    <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/> </a>
     <!--- npm -->
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
     <!--- socket io -->
     <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socket io" width="40" height="40"/> </a>
     <!--- git -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <!--- github -->
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
     <!--- postman -->
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <!--- heroku --> 
@@ -55,7 +63,7 @@
     <!--- figma -->
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
     <!--- photoshop -->
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a>
     <!--- premier -->
     <a href="https://www.adobe.com/products/premiere" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="premier" width="40" height="40"/> </a>
     <!--- after effects -->
@@ -63,8 +71,84 @@
 </p>
 
 &nbsp;
-<h1>📌 Proyectos en los que he trabajado</h1>
-<h2 align="center">PocketFit App</h2>
+<h1>💼 Experiencia Profesional</h1>
+<h3 align="center">Full Stack Engineer en GUNDO (2022 - presente)</h3>
+<p align="center">
+    Desarrollo de aplicaciones web y mobile de alto rendimiento utilizando React, React Native, TypeScript, NestJS y Firebase.
+    Liderazgo de proyectos, integración de soluciones e-commerce y implementación de plataformas de personalización.
+</p>
+
+&nbsp;
+<h1>📌 Proyectos Destacados</h1>
+
+<h2 align="center">Integración E-commerce Ametller Origen</h2>
+<h4>Integré soluciones e-commerce para Ametller Origen, garantizando compatibilidad y rendimiento óptimo entre múltiples plataformas. Desarrollé APIs RESTful robustas, implementé sistemas de sincronización de datos en tiempo real y optimicé la arquitectura para manejar alto volumen de transacciones. El proyecto incluyó integración con sistemas de inventario, procesamiento de pagos y analytics avanzados.
+Tecnologías utilizadas: TypeScript, NestJS, React, Firebase.</h4>
+&nbsp;
+<p align="center">
+    <a><img width="350px" src="./images/Ametller/Home.png"></a>
+    <a><img width="350px" src="./images/Ametller/Productos.png"></a>
+</p>
+
+<p align="center">
+    <a><img width="350px" src="./images/Ametller/Recomendados.png"></a>
+    <a><img width="350px" src="./images/Ametller/Receta.png"></a>
+</p>
+
+<p align="center">
+    <a><img width="350px" src="./images/Ametller/PlanNutricional.png"></a>
+    <a><img width="350px" src="./images/Ametller/Escaner.png"></a>
+</p>
+
+<p align="center">
+    <a><img width="350px" src="./images/Ametller/Perfil.png"></a>
+</p>
+
+<p align="center" width="400">
+    <a href="https://ultrapersonalizacion.gundo.life/">Visitar Web</a>
+</p>
+
+&nbsp;
+<h2 align="center">E-commerce Uvesco</h2>
+<h4>Desarrollé el e-commerce interno para empleados de Uvesco, optimizando la experiencia de compra y los procesos internos. Implementé un sistema completo de gestión de productos, carrito de compras, procesamiento de pagos y administración de pedidos. La plataforma incluye funcionalidades específicas para empleados como descuentos especiales, catálogo personalizado e integración con sistemas internos de la empresa.
+Tecnologías utilizadas: TypeScript, React, Node.js, Firebase, Tailwind CSS.</h4>
+&nbsp;
+<p align="center">
+    <a><img width="350px" src="./images/Uvesco/Home.png"></a>
+    <a><img width="350px" src="./images/Uvesco/Categorias.png"></a>
+</p>
+
+<p align="center">
+    <a><img width="350px" src="./images/Uvesco/Carrito.png"></a>
+    <a><img width="350px" src="./images/Uvesco/Perfil.png"></a>
+</p>
+
+<p align="center">
+    <a><img width="350px" src="./images/Uvesco/PlanNutricional.png"></a>
+    <a><img width="350px" src="./images/Uvesco/Recetas.png"></a>
+</p>
+
+<p align="center" width="400">
+    <a href="https://uvesco-app.web.app/">Visitar Web</a>
+</p>
+
+&nbsp;
+<h2 align="center">App Mobile GUNDO</h2>
+<h4>Lideré el desarrollo y lanzamiento de la aplicación mobile multiplataforma para iOS y Android utilizando React Native. La app ofrece una experiencia fluida y escalable, integrando funcionalidades avanzadas como autenticación con Firebase, notificaciones push, analytics en tiempo real y sincronización de datos. Implementé arquitecturas optimizadas para el rendimiento y la escalabilidad, garantizando una experiencia de usuario excepcional.
+Tecnologías utilizadas: TypeScript, React Native, Firebase, Redux, Node.js.</h4>
+&nbsp;
+<p align="center">
+    <a><img width="350px" src="./images/App/Home.png"></a>
+    <a><img width="350px" src="./images/App/Score.png"></a>
+</p>
+
+<p align="center">
+    <a><img width="350px" src="./images/App/DetalleScore.png"></a>
+    <a><img width="350px" src="./images/App/Comunidades.png"></a>
+</p>
+
+&nbsp;
+<h2 align="center">PocketFit</h2>
 <h4>Proyecto destinado a las administración de un gimnasio desarrollado durante el bootcamp de Henry por 7 personas el cual se divide en dos plataformas: web y mobile. La web orientada hacia la administracion con la posibilidad de gestionar el plan semanal del gimnasio, los turnos, las clases, los eventos, los usuarios, el feedback y hasta un newsletter. Y la mobile orientada hacia el cliente con la posibilidad de visualizar su plan semanal, estadísticas, eventos y feriados próximos del gimnasio, editar su perfil, dar feedback y hasta poder pagar su mensualidad a través de la app.
 Se uso PostgreSQL y Sequelize para la Base de datos, Node.js y Express para el Backend y React.js, React Native acompañado de Redux para el FrontEnd con Styled Components.</h4>
 &nbsp;
